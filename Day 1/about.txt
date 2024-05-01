@@ -1,1 +1,43 @@
 We are learning GitHub today.
+
+-------------------Git Hub----------------------
+
+Step 1 Download git bash
+
+
+Step 2 Create any folder and open gitbash into it
+
+
+Step 3 Now we have to configure our GitHub account for that
+
+          Step 1 Run command to add your email
+                            git config --global user.email "Your GitHub email"
+
+
+
+          Step 2 Then Run another command to add username
+                            git config --global user.name "Your GitHub username"
+
+
+Step 4 To Create Barnches in your GitHub repo we use 
+           git checkout -b {BRANCH NAME} 
+
+
+Step 5 To add new or changed files from local storage to your repo you should follow these steps
+
+
+           Step 1  To add files to git
+                              git add [File name]   (To add specified File)
+                              git add .    (To add all files) 
+
+
+           Step 2 To Get the status about your file 
+                              git status
+
+
+           Step 3 To Commit the changes 
+                              git commit -m "Any message you wanted to write"
+
+
+           step 4 to push these changes to your repo 
+                              git push -u origin BRANCH NAME
