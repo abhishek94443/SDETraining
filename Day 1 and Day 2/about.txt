@@ -47,3 +47,20 @@ Step 6 To add new or changed files from local storage to your GitHub repository 
 
            step 4 push these changes to your repository
                               git push -u origin BRANCH NAME
+
+
+
+------------------Day 2-------------------------------
+
+
+
+How to collaborate and pull the request
+
+To pull the changes you have to run the command
+git pull link of repository
+
+Collaborate with others to get familiar with how things are going in big companies
+
+
+
+
