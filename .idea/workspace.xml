@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bfe1a29-e93a-4143-b5a1-ad6597f7da23" name="Changes" comment="" />
+    <list default="true" id="2bfe1a29-e93a-4143-b5a1-ad6597f7da23" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Day 3/java tutorial.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Interfaces.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Nested Ternary Operation.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/function and its types.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3/SecondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day3/SecondLargestElement.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,10 +49,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.SecondLargestElement.executor": "Run",
-    "Application.SwapTwoVariables.executor": "Run",
     "Application.gg.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Abhishek-Day3",
+    "git-widget-placeholder": "Abhishek-Day4",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Lenovo/Desktop/SDETraining/SDETraining"
   }
