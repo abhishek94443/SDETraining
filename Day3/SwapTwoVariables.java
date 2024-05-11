@@ -1,6 +1,5 @@
 package Day3;
 
-
 import java.util.Scanner;
 
 public class SwapTwoVariables {
@@ -28,4 +27,6 @@ public class SwapTwoVariables {
 
         System.out.println("After swap: num1 = " + num1 + " num2 = " + num2);
     }
+
 }
+
